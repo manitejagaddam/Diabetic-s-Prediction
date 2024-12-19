@@ -43,3 +43,26 @@ The following parameters are used as input for predictions:
 - Pickle
 
 - scikit-learn
+
+
+
+
+# Installation and Setup
+
+- Clone the Repository:
+```bash
+git clone https://github.com/your-repository-name
+cd your-repository-name
+```
+
+- Install Dependencies:
+```bash
+pip install flask pandas scikit-learn
+```
+
+- Run the Application:
+```bash
+python app.py
+```
+
+- The application will be accessible at http://127.0.0.1:5000.
